@@ -7,10 +7,6 @@ Example setup:
 Path to executable file: <code>C:\Windows\system32\cscript.exe</code>  
 Arguments: <code>C:\Path\to\this\file.vbs</code>
 
-### Todo
-
-Pass URL as an argument.
-
 <hr>
 
 By: [topsitemakers.com](http://www.topsitemakers.com).
